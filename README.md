@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+how to contribue
 This repository is for showing how Git and GitHub work
 
 ## Purpose
