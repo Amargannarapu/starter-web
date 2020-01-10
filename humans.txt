@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Stash changes.
 # TEAM
 
     <eureka> -- <role> -- <twitter>
